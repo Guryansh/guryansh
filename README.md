@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 I’m looking to collaborate on backend projects
+- 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: guryanshsingla@gmail.com
 
 # 💻 Tech Stack:
